@@ -5,9 +5,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@font-face {
+  font-family: "Gotham-Ultra";
+  src: local("Gotham-Ultra"),
+   url("./fonts/Gotham-Ultra.otf") format("truetype");
+  font-weight: bold;
+}
+
+
+@font-face {
+  font-family: "Akira-Expanded";
+  src: local("Akira-Expanded"),
+   url("./fonts/akira-expanded.otf") format("truetype");
+  font-weight: bold;
 }

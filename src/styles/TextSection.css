@@ -1,0 +1,18 @@
+.text-sec {
+    background-color: #f81f6b;
+    margin: -10px 0;
+    padding: 10px 0;
+}
+
+.text-sec h2 {
+    font-family: Akira-Expanded;
+    font-size: 115px;
+    color: #41ead4;
+}
+
+.text-sec h1 {
+    font-family: Akira-Expanded;
+    font-size: 200px;
+    color: #41ead4;
+    width: 300%;
+}

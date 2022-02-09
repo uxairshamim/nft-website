@@ -1,0 +1,35 @@
+.nav-main-box nav{
+    background-color: #41ead4;
+}
+
+.nav-main-box .navbar-nav {
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.navbar-nav a {
+    padding: 0 30px;
+    font-size: 35px;
+    font-family: Gotham-Ultra;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.navbar-nav a:first-child{
+    padding-left: 0px;
+}
+
+.navbar-nav a:last-child{
+    padding-right: 0px;
+}
+
+.nav-main-box nav {
+    background-color: #41ead4;
+    padding: 20px 0;
+}
+
+.navbar-nav a:hover {
+    color: #ff206e;
+    text-decoration: none;
+}
