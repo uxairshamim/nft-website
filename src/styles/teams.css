@@ -1,0 +1,53 @@
+.team-main-sec {
+    background-color: #000;
+    padding: 70px 0;
+    margin: -10px 0;
+}
+
+.globe-img{
+    margin: 0 auto;
+    display: table;
+}
+
+.globe-main-sec {
+    position: relative;
+}
+
+.globe-img {
+    margin: 0 auto;
+    display: table;
+}
+
+.line-box {
+    position: absolute;
+}
+
+.first-line-box {
+    top: 140px;
+    left: 280px;
+}
+
+.second-line-box {
+    top: 270px;
+    left: 260px;
+}
+
+.third-line-box {
+    top: 444px;
+    left: 310px;
+}
+
+.fourth-line-box {
+    top: 40px;
+    right: 350px;
+}
+
+.fifth-line-box {
+    top: 130px;
+    right: 280px;
+}
+
+.sixth-line-box {
+    top: 250px;
+    right: 308px;
+}

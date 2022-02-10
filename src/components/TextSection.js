@@ -1,7 +1,6 @@
 import "../styles/TextSection.css";
 import React, { useEffect } from 'react';
 import { gsap, Power3, Linear } from "gsap"; 
-// import { TweenLite } from "gsap";
 
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 gsap.registerPlugin(ScrollTrigger);

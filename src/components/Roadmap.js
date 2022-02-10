@@ -3,6 +3,7 @@ import BottomCarousel from './BottomCarousel';
 import TextSection from './TextSection';
 import Carousel from './Carousel';
 import Navigation from './Navigation';
+import Teams from './Teams';
 
 function Roadmap() {
     return (
@@ -12,6 +13,7 @@ function Roadmap() {
         <Carousel />
         <TextSection />
         <BottomCarousel />
+        <Teams />
       </div>
     );
   }
