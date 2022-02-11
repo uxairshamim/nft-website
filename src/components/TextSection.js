@@ -17,8 +17,6 @@ function TextSection() {
         scrub: true,
       }
     })
-
-
     let tl2 = gsap.timeline();
     tl2.to("#scrollingText2", {
       x: -500,
@@ -29,7 +27,6 @@ function TextSection() {
         scrub: true,
       }
     })
-
     let tl3 = gsap.timeline();
     tl3.to("#scrollingText3", {
       x: 300,
@@ -40,24 +37,15 @@ function TextSection() {
         scrub: true,
       }
     })
-
-
     let tl4 = gsap.timeline();
     tl4.to(".words-img", {
       rotation:"360", 
-      // ease:Linear.easeNone, 
-      // repeat:-1,
       scrollTrigger: {
         trigger: "body",
         start: 'top top',
         scrub: true,
       }
     })
-
-
-
-
-    
   },[])
     return (
       <div className='text-sec'>
