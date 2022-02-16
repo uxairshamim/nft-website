@@ -94,7 +94,7 @@ function Teams() {
                     <div className="line-box first-line-box">
                         <img src={process.env.PUBLIC_URL + "images/right-line.png"} className="img-fluid right-1" alt="right-line" />
                         {firstLine ? (
-                            <h6>Lorem ipsum</h6>
+                            <a href="https://frenchygeenetics-cbd.fr/" target="_blank">Frenchy genetics cbd</a>
                         ) : (
                             null
                         )}                        
@@ -102,40 +102,41 @@ function Teams() {
                     <div className="line-box second-line-box">
                         <img src={process.env.PUBLIC_URL + "images/right-line.png"} className="img-fluid right-2" alt="right-line" />
                         {secondLine ? (
-                            <h6>Lorem ipsum</h6>
-                        ) : (
+                            <a href="https://instagram.com/notanothertacotuesday?utm_medium=copy_link" target="_blank">Tacos sesh
+                            </a>
+                            ) : (
                             null
                         )}  
                     </div>
                     <div className="line-box third-line-box">
                         <img src={process.env.PUBLIC_URL + "images/right-line.png"} className="img-fluid right-3" alt="right-line" />
                         {thirdLine ? (
-                            <h6>Lorem ipsum</h6>
-                        ) : (
+                            <a href="https://www.histoiredegraines.com/#" target="_blank">Histoire de graines</a>
+                            ) : (
                             null
                         )}  
                     </div>
                     <div className="line-box fourth-line-box">
                         <img src={process.env.PUBLIC_URL + "images/left-line.png"} className="img-fluid left-1" alt="left-line" />
                         {fourthLine ? (
-                            <h6>Lorem ipsum</h6>
-                        ) : (
+                            <a href="https://instagram.com/huahighgrade?utm_medium=copy_link" target="_blank">Huahighgrade</a>
+                            ) : (
                             null
                         )}  
                     </div>
                     <div className="line-box fifth-line-box">
                         <img src={process.env.PUBLIC_URL + "images/left-line.png"} className="img-fluid left-2" alt="left-line" />
                         {fifthLine ? (
-                            <h6>Lorem ipsum</h6>
-                        ) : (
+                            <a href="https://dutchflowersmag.com/" target="_blank">Dutchflowermagazine</a>
+                            ) : (
                             null
                         )}  
                     </div>
                     <div className="line-box sixth-line-box">
                         <img src={process.env.PUBLIC_URL + "images/left-line.png"} className="img-fluid left-3" alt="left-line" />
                         {sixthLine ? (
-                            <h6>Lorem ipsum</h6>
-                        ) : (
+                            <a href="https://www.pyragreen.com/boutique/" target="_blank">Pyragren</a>
+                            ) : (
                             null
                         )}  
                     </div>
