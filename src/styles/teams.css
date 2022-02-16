@@ -134,21 +134,21 @@ section {
 
 .line-box a {
 
-    font-size: 30px;
+    font-size: 21px;
     color: #fff;
     font-family: 'Gotham-Ultra';
     transition: all 0.5s ease-in-out;
     -webkit-animation: zoom-in-zoom-out linear 1s 1 forwards;
     animation: zoom-in-zoom-out linear 1s 1 forwards;
+    text-transform: capitalize;
 
 }
 
 .first-line-box a {
     position: absolute;
-    top: -22px;
-    left: -210px;
+    top: -16px;
+    left: -240px;
 }
-
 .fourth-line-box a {
     position: absolute;
     top: -20px;
@@ -172,8 +172,8 @@ section {
 
 .second-line-box a {
     position: absolute;
-    top: -20px;
-    right: 210px;
+    top: -17px;
+    right: 126px;
     width: 100%;
 }
 
